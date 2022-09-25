@@ -1,1 +1,1 @@
-# Image-Recognition
+# Image-Recognition with Azure Computer Vision
